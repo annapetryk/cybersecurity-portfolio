@@ -163,6 +163,9 @@ Planned additions may include:
 - Non-NCL CTF write-ups
 - Red team and blue team practice projects
 
+https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/breakdown/69690a38f845cf0a7e6d8b90 
+https://cyberskyline.com/world/69690a38f845cf0a7e6d8b8a/breakdown/69690a38f845cf0a7e6d8b96
+
 ---
 
 ## Contact
